@@ -274,7 +274,7 @@ const typingElement =
     document.querySelector(".typing-text");
 
 const typingWords = [
-    "Data Analyst Enthusiast",
+    "Data Analytics Enthusiast",
     "Python Programmer",
     "SQL Learner",
     "UI/UX Designer"
