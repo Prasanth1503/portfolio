@@ -276,7 +276,7 @@ const typingElement =
 const typingWords = [
     "Data Analytics Enthusiast",
     "Python Programmer",
-    "Web Development",
+    "Web Developer",
     "SQL Learner",
     "UI/UX Designer"
 ];
